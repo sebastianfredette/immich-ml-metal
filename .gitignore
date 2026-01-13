@@ -6,4 +6,6 @@ src/__pycache__/
 src/models/__pycache__/
 *.pyc
 *.pyo
+.DS_Store
 *.DS_Store
+.gitignore
