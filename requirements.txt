@@ -17,6 +17,7 @@ pyobjc-framework-CoreML>=10.0
 # MLX for CLIP (Apple Silicon optimized)
 mlx>=0.4.0
 huggingface-hub>=0.20.0
+mlx-clip @ git+https://github.com/harperreed/mlx_clip.git
 
 # Face recognition - official onnxruntime now supports CoreML on Apple Silicon
 onnxruntime>=1.17.0
