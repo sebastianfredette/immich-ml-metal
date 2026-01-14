@@ -58,6 +58,7 @@ git ls-remote https://github.com/harperreed/mlx_clip.git HEAD
 # Edit requirements.txt and replace the tail end of the mlx_clip.git address with the new hash
 
 # Create and activate virtual environment
+# Please ensure python 3.11 is used — 3.13 doesn't yet have all required wheels
 python3 -m venv .venv
 source .venv/bin/activate
 
