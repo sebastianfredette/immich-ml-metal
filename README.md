@@ -49,7 +49,7 @@ This service uses Apple's MLX framework for CLIP. In my testing, this is signifi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/immich-ml-metal.git
+git clone https://github.com/sebastianfredette/immich-ml-metal.git
 cd immich-ml-metal
 
 # Pin mlx-clip to a specific commit (for stability)

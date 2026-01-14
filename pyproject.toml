@@ -15,7 +15,7 @@ authors = [
 keywords = ["immich", "machine-learning", "apple-silicon", "mlx", "coreml"]
 classifiers = [
     "Development Status :: 3 - Alpha",
-    "Environment :: MacOS X",
+    "Environment :: MacOS Tahoe",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
     "Operating System :: MacOS",
@@ -52,8 +52,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/immich-ml-metal"
-Repository = "https://github.com/yourusername/immich-ml-metal"
+Homepage = "https://github.com/sebastianfredette/immich-ml-metal"
+Repository = "https://github.com/sebastianfredette/immich-ml-metal"
 
 [project.scripts]
 immich-ml-metal = "src.main:main"
